@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: demo-landing-page
+  description: Demo landing page created from template
+  tags:
+    - demo
+spec:
+  type: website
+  owner: thuyle96123456
+  lifecycle: experimental
